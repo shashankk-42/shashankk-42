@@ -1,18 +1,8 @@
 <!-- GitHub Profile README for Shashank Kakad -->
 
-<!-- Terminal Boot Sequence Intro (Color-Enhanced) -->
+<!-- Terminal Photo -->
 <div align="center">
-  <pre style="background-color:#000000; color:#FFFFFF; padding:22px; border-radius:10px; text-align:left; font-family:'Fira Code', monospace; font-size:13.5px; line-height:1.5; width:700px; overflow:auto;">
-# Initializing System...
-
-<span style="color:#00BFFF;">[INFO]</span>    Profile: <span style="color:#00FFC8;">Shashank Kakad</span>
-<span style="color:#00BFFF;">[INFO]</span>    Modules Loaded: <span style="color:#00FFC8;">Cybersecurity</span> | <span style="color:#00FFC8;">AI Systems</span> | <span style="color:#00FFC8;">Network Intelligence</span>
-<span style="color:#00BFFF;">[INFO]</span>    Objective: Building adaptive and resilient infrastructures
-<span style="color:#FFD700;">[WARNING]</span> Creativity overflow detected. Engaging innovation protocol...
-<span style="color:#FF69B4;">[TASK]</span>    Developing autonomous network defense under <span style="color:#00FFC8;">TaskForge</span>
-<span style="color:#FF00FF;">[MISSION]</span> Integrating intelligence, scalability, and security into every architecture
-<span style="color:#00FF00;">[SUCCESS]</span> System initialized successfully. Environment secure. ⚡
-  </pre>
+  <img src="assets/terminal_intro.png" alt="Terminal intro" width="900" />
 </div>
 
 <!-- Divider -->
@@ -26,29 +16,35 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Computer Science (VIT Pune)**  
-🔒 Focused on **Cybersecurity**, **AI Systems**, and **Network Engineering**  
-⚙️ Building **resilient, autonomous, and adaptive systems** that detect, defend, and evolve.  
-🧠 Passionate about how **AI and infrastructure** can merge to create next-gen defense frameworks.
+→ **Computer Science and Engineering Student**  
+→ **Head of Sponsorship** at GeeksforGeeks Student Chapter VIT  
+→ **Leetcode** — loading...  
+→ **Certifications** — loading...
 
 ---
+## ⚙️ Technology Stack Overview
 
-## 🛠️ Core Tech Stack
-
-| Domain | Core Tools / Frameworks |
+| **Category** | **Primary Tools & Frameworks** |
 |:--|:--|
-| **Languages** | <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> |
-| **AI / ML / CV** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv8-00C853?logo=ai&logoColor=white" /> |
-| **Backend** | <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Crow-2C3E50?logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/REST-FF4088?logo=swagger&logoColor=white" /> |
-| **Cloud / Infra** | <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" /> |
-| **Security & Networking** | <img src="https://img.shields.io/badge/CCNA-1E88E5?logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Network%20Defense-0F0F0F?logo=protonmail&logoColor=00FFC8" /> <img src="https://img.shields.io/badge/DDoS%20Detection-FF1744?logo=shield&logoColor=white" /> |
-| **IoT & Hardware** | <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Sensors%20%26%20Modules-37474F?logo=hardware&logoColor=white" /> |
+| **Programming Languages** | <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> |
+| **AI / Machine Learning** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv8-00C853?logo=ai&logoColor=white" /> <img src="https://img.shields.io/badge/EasyOCR-000000?logo=python&logoColor=white" /> |
+| **Backend Development** | <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" /> |
+| **Frontend & Web Stack** | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" /> |
+| **Cloud & DevOps** | <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" /> |
+| **Networking & Security** | <img src="https://img.shields.io/badge/Cisco%20CCNA-1E88E5?logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Network%20Protocols-000000?logo=wireshark&logoColor=00BFFF" /> <img src="https://img.shields.io/badge/TCP%2FIP%20%7C%20Firewalls%20%7C%20VPNs-0F0F0F?logo=protonmail&logoColor=00FFC8" /> |
+| **IoT & Embedded Systems** | <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Sensor%20Modules-37474F?logo=hardware&logoColor=white" /> |
 
 ---
 
 ## 🌐 Connect
 
-<p align="center"> <a href="https://linkedin.com/in/shashankkakad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a> <a href="mailto:shashank.kakad@example.com"><img src="https://img.shields.io/badge/Email-2A2A2A?logo=gmail&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Portfolio-00FFC8?logo=vercel&logoColor=black" /></a> </p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankkakad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashank.kakad@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FFC8)](#)
+
+</div>
 
 ---
 
